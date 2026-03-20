@@ -63,4 +63,4 @@ Future Improvements
 3. Deploy the web app online (Render / AWS) 
 Textile Quality Deduction Using Deep Learning And Image Processing
 
-z
+
