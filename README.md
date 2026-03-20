@@ -49,6 +49,9 @@ Tech Stack
 - OpenCV
 - TensorFlow / Keras
 - HTML
+  <img width="663" height="473" alt="Picture3" src="https://github.com/user-attachments/assets/dd5c4efa-076d-4b64-bcfd-d6966bb9a1d5" />
+
+
 
 How to Run
 1. Install required libraries:
@@ -63,6 +66,4 @@ Future Improvements
 3. Deploy the web app online (Render / AWS) 
 Textile Quality Deduction Using Deep Learning And Image Processing
 
-<img width="663" height="473" alt="Picture3" src="https://github.com/user-attachments/assets/dd5c4efa-076d-4b64-bcfd-d6966bb9a1d5" />
-
-
+z
