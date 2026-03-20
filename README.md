@@ -63,4 +63,14 @@ Future Improvements
 3. Deploy the web app online (Render / AWS) 
 Textile Quality Deduction Using Deep Learning And Image Processing
 
-z
+MAIN function
+@app.route("/defect", methods=["POST", "GET"])
+def defect():
+        os.system("python clf.py")
+        os.system("python def.py")
+        return render_template("menu.html");
+
+
+
+if __name__ == '__main__':
+    app.run()
